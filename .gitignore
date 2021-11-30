@@ -1,0 +1,4 @@
+settings.py
+*.jpg
+*.png
+sqlite3
